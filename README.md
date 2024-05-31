@@ -1,1 +1,1 @@
-# Detecting-Aircraft-and-Watercraft-in-Satellite-Images
+# Classification-of-Aircraft-and-Watercraft-in-Satellite-Images
